@@ -38,4 +38,4 @@ The goal is to identify key areas where service improvement can enhance customer
 This analysis provides actionable insights for British Airways to enhance service quality based on aircraft, geographic location, and traveler preferences. The airline can focus on improving service in underperforming regions and aircraft while maintaining excellence in high-rated categories.
 
 By implementing these insights, British Airways can improve overall customer satisfaction and build a stronger brand reputation.
-
+Final dashboard Link> https://public.tableau.com/views/Book1_17394431419290/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
